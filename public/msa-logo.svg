@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72" role="img" aria-labelledby="title">
+  <title id="title">Mondiale Services Auto</title>
+  <rect x="1" y="1" width="70" height="70" rx="16" fill="#e3232d"/>
+  <path d="M14 46 22 25h7l7 13 7-13h7l8 21h-9l-3-10-6 10h-7l-6-10-3 10z" fill="#fff"/>
+  <text x="84" y="31" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="800" fill="#fff">MONDIALE</text>
+  <text x="84" y="51" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#e3232d">SERVICES AUTO</text>
+</svg>
